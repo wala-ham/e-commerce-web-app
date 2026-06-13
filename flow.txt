@@ -4,3 +4,8 @@ git commit -m "msg"
 git branch -M main
 git remote add origin https://github.com/wala-ham/e-commerce-web-app.git
 git push -u origin main
+
+
+git add .
+git commit -m "msg"
+git push -u origin main
